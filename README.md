@@ -1,4 +1,4 @@
 occbin
 ======
 
-A toolbox for solving models with occasionally binding constraints in Dynare
+A set of routines that solve models with occasionally binding constraints using Dynare
